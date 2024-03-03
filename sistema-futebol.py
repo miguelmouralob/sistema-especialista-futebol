@@ -159,7 +159,7 @@ while True:
         else:
             print("Nenhum estádio encontrado com essas informações")
     elif opcao == '0':
-        print("Programa encerrado.")
+        print("Programa encerrado!")
         break
     else:
         print("Opção inválida. Tente novamente.")
